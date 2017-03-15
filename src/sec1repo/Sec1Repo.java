@@ -17,7 +17,6 @@ public class Sec1Repo {
     public static void main(String[] args) { 
         System.out.println("hello");
         // TODO code application logic here
-        System.out.println("Hello Section 1");
     }
     
 }
