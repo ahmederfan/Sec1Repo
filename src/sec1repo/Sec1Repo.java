@@ -14,8 +14,7 @@ public class Sec1Repo {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) { 
-        System.out.println("hello");
+    public static void main(String[] args) {
         // TODO code application logic here
     }
     
