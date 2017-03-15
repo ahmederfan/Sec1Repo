@@ -11,6 +11,7 @@ package sec1repo;
  */
 public class NewClass {
     public void newMethod(){
+        System.out.println("heeey");
         
     }
 }
